@@ -1,0 +1,26 @@
+body{
+      background-color: rgba(0, 0, 0, 0.938) ;
+    }
+    p{
+      color: white;
+    }
+    h1, h2, h3{
+      color: rgba(97, 17, 17, 0.925);
+    }
+    label{
+        color: white;
+    }
+    /* styles.css */
+.section-container {
+  border: 10px solid black;
+  padding: 20px;
+}
+.nav-item, .nav-link{
+    color: white;
+}
+.navbar-brand{
+    color: white;
+}
+.images{
+    padding: 5px;
+}
